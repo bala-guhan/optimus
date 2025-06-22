@@ -1,8 +1,8 @@
-![Optimus Agent Architecture](./optimus-agent-excalidraw.png)
-
 # Multi-Agent Coding Assistant
 
 A multi-agent system designed to boost developer productivity with advanced code explanation, semantic code search, and automated code refactoring.
+
+![Optimus Agent Architecture](./optimus-agent-excalidraw.png)
 
 Built with **LangGraph**, **LangChain**, **FAISS**, **HuggingFace**, and **PostgreSQL** for robust, scalable, and intelligent codebase interaction.
 
